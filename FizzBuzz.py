@@ -1,4 +1,4 @@
-# The infamous Fitz/Buzz Question
+# The infamous Fizz/Buzz Question
 # Found here https://blog.codinghorror.com/why-cant-programmers-program/
 
 #This programming question states the following:
@@ -10,6 +10,6 @@
 
 for value in range(0,101):
     if value % 3 == 0:
-	print("Fitz")
+	print("Fizz")
     elif value % 5 == 0:
         print("Buzz")
