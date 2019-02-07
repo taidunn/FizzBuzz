@@ -10,6 +10,6 @@
 
 for value in range(0,101):
     if value % 3 == 0:
-	print("Fizz")
+        print('Fizz')
     elif value % 5 == 0:
-        print("Buzz")
+        print('Buzz')
