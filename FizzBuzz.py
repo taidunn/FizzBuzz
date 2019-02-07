@@ -12,4 +12,4 @@ for value in range(0,101):
     if value % 5 == 0:
         print("Buzz")
     elif value % 3 == 0:
-		print("Fitz")
+	print("Fitz")
